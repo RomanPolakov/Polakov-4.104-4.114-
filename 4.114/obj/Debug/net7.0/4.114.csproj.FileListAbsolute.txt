@@ -1,0 +1,15 @@
+/Users/user/Projects/4.114/4.114/bin/Debug/net7.0/4.114
+/Users/user/Projects/4.114/4.114/bin/Debug/net7.0/4.114.deps.json
+/Users/user/Projects/4.114/4.114/bin/Debug/net7.0/4.114.runtimeconfig.json
+/Users/user/Projects/4.114/4.114/bin/Debug/net7.0/4.114.dll
+/Users/user/Projects/4.114/4.114/bin/Debug/net7.0/4.114.pdb
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.csproj.AssemblyReference.cache
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.AssemblyInfoInputs.cache
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.AssemblyInfo.cs
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.csproj.CoreCompileInputs.cache
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.dll
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/refint/4.114.dll
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.pdb
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/4.114.genruntimeconfig.cache
+/Users/user/Projects/4.114/4.114/obj/Debug/net7.0/ref/4.114.dll
